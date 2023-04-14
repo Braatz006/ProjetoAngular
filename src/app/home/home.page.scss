@@ -25,3 +25,18 @@
 #container a {
   text-decoration: none;
 }
+ion-button{
+  --background:red;
+}
+
+.primary-color{
+  --background: blueviolet;
+}
+
+.secondary-color{
+  --background:green;
+}
+
+.tertiary-color{
+  --backgroud:rgb(238, 255, 0);
+}
